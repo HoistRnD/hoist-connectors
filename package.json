@@ -1,0 +1,19 @@
+{
+  "name": "hoist-connectors",
+  "version": "1.0.0",
+  "description": "Connectors used in Hoist Connect",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoist/hoist-connectors.git"
+  },
+  "author": "Hoist Apps Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoist/hoist-connectors/issues"
+  },
+  "homepage": "https://github.com/hoist/hoist-connectors"
+}
